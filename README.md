@@ -1,18 +1,4 @@
-Bu kod Rüya'nın manvında seçilen meyvenin fiyatını getiriyor. Switch case ile yazıldı.
 
-            
-            using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace switch_case_pratik1
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
             
             //Bu kod Rüya'nın manvında seçilen meyvenin fiyatını getiriyor. Switch case ile yazıldı.
 
@@ -55,6 +41,4 @@ namespace switch_case_pratik1
         }
     }
 
-
-}
 
