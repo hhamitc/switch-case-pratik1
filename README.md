@@ -1,6 +1,6 @@
 
             
-            //Bu kod Rüya'nın manvında seçilen meyvenin fiyatını getiriyor. Switch case ile yazıldı.
+            //Bu kod Rüya'nın manavında seçilen meyvenin fiyatını getiriyor. Switch case ile yazıldı.
 
             Console.WriteLine("Rüya'nın Manavına Hoş Geldiniz!");
             Console.WriteLine("Elma: 2 TL \nArmut: 3 TL \nÇilek: 4 TL \nMuz: 5 TL\nDiğer Bütün Meyveler: 6 Tl.");
