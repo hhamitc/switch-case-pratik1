@@ -75,6 +75,12 @@ namespace switch_case_pratik1
 
             goto Basla;
 
+            //Bu tarz bir uygulama için switch-case yapısını kullanmak genellikle daha mantıklı ve okunabilir olacaktır.
+            //switch-case, farklı seçenekleri hızlı bir şekilde organize etme ve kontrol etme imkanı sağlar.
+            //Ayrıca kodun daha temiz ve anlaşılır olmasını sağlar.
+            //Özellikle meyve gibi çoklu seçeneklerde, her bir seçeneğin kendi bloğu olduğu için daha kolay anlaşılır.
+
+
             Console.Read();
         }
     }
