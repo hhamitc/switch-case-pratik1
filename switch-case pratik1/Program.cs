@@ -39,12 +39,39 @@ namespace switch_case_pratik1
                     Console.WriteLine("Seçtğiniz meyvenin fiyatı: 5 TL");
                     Console.WriteLine();
                     break;
-                default: 
+                default:
                     Console.WriteLine("Seçtiğiniz meyvenin fiyatı: 6 TL'dir.");
                     Console.WriteLine();
                     break;
+            }
 
-            } 
+            // if (meyve == "elma") 
+            //{
+            //    Console.WriteLine("Seçtğiniz meyvenin fiyatı: 2 TL");
+            //    Console.WriteLine();
+            //}
+            // else if (meyve == "armut") 
+            //{
+            //    Console.WriteLine("Seçtğiniz meyvenin fiyatı: 3 TL");
+            //    Console.WriteLine();
+            //}
+            //else if (meyve == "çilek")
+            //{
+            //    Console.WriteLine("Seçtğiniz meyvenin fiyatı: 4 TL");
+            //    Console.WriteLine();
+            //}
+            //else if (meyve == "muz")
+            //{
+            //    Console.WriteLine("Seçtğiniz meyvenin fiyatı: 5 TL");
+            //    Console.WriteLine();
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Seçtğiniz meyvenin fiyatı: 6 TL");
+            //    Console.WriteLine();
+            //}
+
+
 
             goto Basla;
 
